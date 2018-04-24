@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="aula_de_android">aula de android</string>
+    <string name="sobre">sobre</string>
+    <string name="sair">sair</string>
+    <string name="abrir">abrir</string>
+    <string name="fechar">fechar</string>
+</resources>
